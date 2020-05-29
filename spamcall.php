@@ -12,12 +12,12 @@ function send($phone){
                 echo $asw."\n";
 }
 echo "
-############################################################
+№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№
     Spammer Call From TOKOPEDIA
-        Author By   : AyipBontos
-        Support     : Kunjungi Website Kami
-        Website     : https://termux.id
-        Youtube     : Omalip TV
+        Author By   : Cyber Limit
+        Support     : Wisnu | panjul
+        Github      : https://github.com/cyberlimit
+        Youtube     : Cyber Limit
      Penggunaannya  : Bisa Menggunakan [08/62]
 ###########################################################\n";
 echo "Nomor\nInput : ";
